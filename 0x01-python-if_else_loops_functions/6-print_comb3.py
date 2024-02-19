@@ -5,4 +5,3 @@ for x in range(0, 10):
             print('89')
         else:
             print('{}{}, '.format(x, y), end='')
-
