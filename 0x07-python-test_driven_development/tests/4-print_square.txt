@@ -1,3 +1,12 @@
+============================
+How to Use 4-print_square.py
+============================
+
+This module defines a square-printing function ``print_square(size)``.
+
+Usage
+=====
+
 Squares are printed using the ``#`` character. The parameter ``size``
 represents the height and width of the square.
 

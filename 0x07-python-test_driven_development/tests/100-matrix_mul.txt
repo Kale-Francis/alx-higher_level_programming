@@ -1,3 +1,11 @@
+============================
+How to Use 100-matrix_mul.py
+============================
+
+This module defines a matrix multiplication function ``matrix_mul(m_a, m_b)``.
+
+Usage
+=====
 ``matrix_mul(...)`` returns a new matrix representing the multiplication of
 ``m_a`` by ``m_b``.
 
@@ -225,4 +233,4 @@ equivalent. Otherwise, a TypeError is raised.
     >>> m_b = m_a
     >>> print(matrix_mul(m_a, m_b))
     Traceback (most recent call last):
-    TypeError: each row of m_a must should be of the same
+    TypeError: each row of m_a must should be of the same size

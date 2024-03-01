@@ -1,3 +1,12 @@
+================================
+How to Use 5-text_indentation.py
+================================
+
+This module defines a text-indentation function ``text_indentation(text)``.
+
+Usage
+=====
+
 Text is printed with two new lines after each of the characters ``.``, ``?``,
 and ``:``.
 
